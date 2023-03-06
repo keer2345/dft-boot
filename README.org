@@ -2,7 +2,20 @@
 
 Fork from [[https://github.com/jkitchin/dft-book][jkitchin/dft-book]].
 
-This is a project to compile a pretty comprehensive set of notes and examples on using density functional theory to model properties
-of materials.
+This is a project to compile a pretty comprehensive set of notes and examples on
+using density functional theory to model properties of materials.
 
 Check out the new blog at [[http://kitchingroup.cheme.cmu.edu/dft-book/dft.html][Modeling materials using density functional theory]].
+
+* Some notes on dft-book
+
+The book is released under the [[http://www.gnu.org/copyleft/fdl.html][GNU Free Documentation License]]. You are free to copy
+it, modify it, and redistribute it under the conditions of that license. The
+book is written in [[http://orgmode.org][org-mode]], and is best read in Emacs. You will be asked by Emacs
+if it is ok to set some local variables, and load the fill dft.el. You should
+say yes, as that file provides documentation. dft.org is always up to date.
+Alternatively, you may prefer the [[https://github.com/jkitchin/dft-book/raw/master/dft.pdf][pdf]] version of the book which is nicely rendered
+and usally up to date. The mobi verrsion is hight experimental, and usually not
+up to date.
+
+You are welcome to contribute examples of how to run calculations.
