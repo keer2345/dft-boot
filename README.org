@@ -1,1 +1,8 @@
-https://github1s.com/jkitchin/dft-book
+* [[http://kitchingroup.cheme.cmu.edu/dft-book/dft.html][Modeling materials using density functional theory]]
+
+Fork from [[https://github.com/jkitchin/dft-book][jkitchin/dft-book]].
+
+This is a project to compile a pretty comprehensive set of notes and examples on using density functional theory to model properties
+of materials.
+
+Check out the new blog at [[http://kitchingroup.cheme.cmu.edu/dft-book/dft.html][Modeling materials using density functional theory]].
